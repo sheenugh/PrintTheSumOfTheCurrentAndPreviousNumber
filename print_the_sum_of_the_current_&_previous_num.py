@@ -1,10 +1,8 @@
-#----- FUNCTION/S -----
-
+# #----- FUNCTION/S -----
 
 
 #----- PSEUDO CODE -----
 
-
-
-#----- ACTUAL CODE -----
-
+previous_num = 0
+for i in range(10):
+    print(i)

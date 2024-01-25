@@ -1,5 +1,6 @@
 
-#----- PSEUDO CODE -----
+#>>>>>>>>>> PSEUDO CODE <<<<<<<<<<
+# ----- ACTUAL CODES -----
 # - Getting the prev, current, and sum number using loop function
 previous_num = 0
 for i in range(10):
